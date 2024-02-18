@@ -1,0 +1,5 @@
+batch_size: 1000
+billing_project: "my_gcp_project_id"
+sample_ids:
+  - "SAMPLE-1"
+  - "SAMPLE-2"
